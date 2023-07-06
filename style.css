@@ -1,6 +1,4 @@
-* {
-    border: 1px solid red;
-  }
+*
   
   p {
     color: green;
@@ -14,4 +12,10 @@
   }
   #publish-time{
     color: gray;
+  }
+  .image{
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/soccer.jpeg)
+  }
+  p{
+    width: 300px
   }
