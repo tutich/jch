@@ -28,9 +28,6 @@ p {
   #article-title{
     font-family: cursive;
   }
-  #publish-time{
-    color: gray;
-  }
   .image{
     background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/soccer.jpeg)
   }
@@ -40,7 +37,7 @@ p {
     height: 400px;
   }
   h2{
-    color: coral;
+    color: hsla(325, 50%, 50%, 0.6);
     background-color: hsl(240, 100%, 80%);
   }
   .answer {
