@@ -1,6 +1,10 @@
 *
   
-  p {
+body {
+  background-color: #FFF;
+  margin: 0 auto;
+}
+p {
     color: green;
   }
   
@@ -17,5 +21,20 @@
     background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/soccer.jpeg)
   }
   p{
-    width: 300px
+    border: 3px black;
+    width: 300px;
+    height: 400px;
   }
+  h2{
+    color: coral;
+  }
+  i {
+    color: #FFF;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+  
+  li:hover {
+    color: #DBE9EE;
